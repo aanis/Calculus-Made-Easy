@@ -1,4 +1,4 @@
-The following is a list of books on machine learning and artificial intelligence which I personally find helpful and like.
+The following is a list of books on machine learning and artificial intelligence which I personally like and find helpful.
 
 * [The Hundred-Page Machine Learning Book](https://drive.google.com/file/d/1GaSM5pIEk_BrTqroGrQoGF9P2K9Fb766/view)
 * [Machine Learning for Dummies](https://mscdss.ds.unipi.gr/wp-content/uploads/2018/02/Untitled-attachment-00056-2-1.pdf)
