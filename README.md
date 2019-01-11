@@ -1,4 +1,4 @@
-The following is a list of resources on machine learning and artificial intelligence which I personally like and find helpful.
+The following is a list of resources on AI which I personally like and find helpful.
 
 ## Books
 
